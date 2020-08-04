@@ -21,7 +21,10 @@ My name is Juan Carlos Blanco Delgado, welcome to my GitHub 😄
   <br>
   
   <a href="https://github.com/juancarlosjr97/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juancarlosjr97&show_icons=true&theme=radical&line_height=27" alt="JuanCarlosJr97's github stats" />
-</a>
+  
+  ![JuanCarlosJr97's github stats](https://github-readme-stats.vercel.app/api?username=juancarlosjr97&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juancarlosjr97&theme=radical)
+  </a>
 
 </details>
