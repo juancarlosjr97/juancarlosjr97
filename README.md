@@ -1,30 +1,31 @@
-### What's up!
+<div align="center">
+    <h1>Hello Stranger, my name is <a href="https://github.com/juancarlosjr97/juancarlosjr97">Juan Carlos Blanco
+            Delgado</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+</div>
 
-My name is Juan Carlos Blanco Delgado, welcome to my GitHub 😄
-
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/juancarlosjr97/juancarlosjr97/master/assets/hello_world.jpg" alt="Hello world">
-  <br>
-  Visitor count
-  <br>
-  <img src="https://profile-counter.glitch.me/juancarlosjr97/count.svg" />
+<p align='center'>
+    <a href="https://www.linkedin.com/in/juancarlosjr97"><img height="30"
+            src="https://raw.githubusercontent.com/juancarlosjr97/juancarlosjr97/master/assets/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://twitter.com/juancarlosjr97"><img height="30"
+            src="https://raw.githubusercontent.com/juancarlosjr97/juancarlosjr97/master/assets/twitter.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://www.buymeacoffee.com/juancarlosjr97"><img height="30"
+            src="https://raw.githubusercontent.com/juancarlosjr97/juancarlosjr97/master/assets/popcorn.png"></a>&nbsp;&nbsp;
 </p>
 
-- 🔭  I am currently working on a few cool projects, soon will be revealed to the world (hopefully)!
+<p align='center'>
+    <a href="https://www.credly.com/users/juancarlosjr97/badges">
+        <img height="30" src="https://raw.githubusercontent.com/juancarlosjr97/juancarlosjr97/master/assets/aws.png">
+    </a>
+</p>
 
-- 🌱  I am currently learning about cloud-computing, and learning more about Docker & Kubernetes to be able to deploy the projects using its technology! Please drop me any good material :) 
+<div align='center'>
 
-- ⚡ Fun fact: My favorite music genre is mushy songs and I love to sing, but you will probably not like it very much! 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=juancarlosjr97&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
 
-<details>
-  <summary>My stats...!</summary>
-  <br>
-  
-  <a href="https://github.com/juancarlosjr97/github-readme-stats">
-  
-  ![JuanCarlosJr97's github stats](https://github-readme-stats.vercel.app/api?username=juancarlosjr97&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+</div>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juancarlosjr97&theme=radical)
-  </a>
-
-</details>
+<p align="center">
+    <i>Total strangers on my profile...</i>
+    <br>
+    <img height="30" src="https://profile-counter.glitch.me/juancarlosjr97/count.svg" />
+</p>
