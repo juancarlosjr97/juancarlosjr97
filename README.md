@@ -20,8 +20,7 @@
 
 <div align='center'>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=juancarlosjr97&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/juancarlosjr97)
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=juancarlosjr97&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 </div>
 
 <p align="center">
