@@ -6,7 +6,7 @@
 **Status:** 🟢  
 **URL:** [GitHub Repository](https://github.com/juancarlosjr97/release-it-containerized)
 
-This project is a containerized version of release-it, enabling it to run in any environment as a standardized container without requiring a Node environment.
+This project is a containerized version of release-it. The purpose of this project is to enable release-it to run in any environment as a standardized container without the need for a Node environment.
 
 **Technologies:** Docker, release-it, CI/CD
 
@@ -42,7 +42,7 @@ A project demonstrating the use of Git and GitHub Codespaces for cloud-based dev
 **Status:** 🟢  
 **URL:** [GitHub Repository](https://github.com/juancarlosjr97/apollo-graphql-federation-2-entities-example)
 
-This project showcases how to use entities with Apollo GraphQL Federation 2.
+This project showcases how to use entities with Apollo GraphQL Federation v2.
 
 **Technologies:** Apollo Federation 2, GraphQL, Entity Management
 
@@ -113,7 +113,7 @@ A project demonstrating AWS Amplify integration with Next.js and Amazon Rekognit
 **Status:** 🟢  
 **URL:** [Project Site](https://lsbupeerevaluation.software)
 
-An automated peer evaluation platform for London South Bank University, using Next.js, TypeScript, and Prisma, with CI/CD managed by GitHub Actions.
+London South Bank University in-house project, utilising Next.js with TypeScript and Prisma as the ORM, to automate Peer Evaluations for its courses. This system is seamlessly deployed via GitHub Actions with end-to-end, unit and component tests, and hosted on DigitalOcean, improving course management and streamlining evaluations, reducing the time required for lecturers from days to hours.
 
 **Technologies:** Next.js, TypeScript, Prisma, DigitalOcean, CI/CD, E2E Testing, Cypress, Jest
 
@@ -124,7 +124,7 @@ An automated peer evaluation platform for London South Bank University, using Ne
 **Date:** May 2021 - Present
 **Status:** 🟢
 
-A project supporting the university's Family Law Hub, integrating Directus and Survey.Js with PostgreSQL, developed using Next.js with TypeScript and hosted on DigitalOcean.
+The University's on-campus Legal Clinic provides a free public drop-in service where law students, supervised by experienced solicitors, offer expert assistance. This innovative project supports the Family Law Hub and uses advanced technology, including Directus and Survey.js as backend components integrated with PostgreSQL. The frontend is built with Next.js and TypeScript, and the entire application is hosted on DigitalOcean, with deployments and automated tests handled through GitHub Actions.
 
 **Technologies:** Directus, Survey.Js, PostgreSQL, Next.js, TypeScript, DigitalOcean, CI/CD
 
@@ -135,7 +135,7 @@ A project supporting the university's Family Law Hub, integrating Directus and S
 **Date:** September 2020 - Present
 **Status:** 🟢
 
-A backend platform for managing reports of racism, using Directus as a Headless CMS with custom extensions built in Vue.js.
+The Monitoring Group uses a private and self-hosted backend platform to manage the reports of racism. The application was created using Directus as a Headless CMS with custom extensions written using Vue.js.
 
 **Technologies:** Directus, Headless CMS, Vue.js, Backend Development
 
