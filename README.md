@@ -28,3 +28,7 @@
     <br>
     <img height="30" src="https://profile-counter.glitch.me/juancarlosjr97/count.svg" />
 </p>
+
+<p align="center">
+    <a href="PROJECTS.md"><strong>Explore All Projects</strong></a>
+</p>
