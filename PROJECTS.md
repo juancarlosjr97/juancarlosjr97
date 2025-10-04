@@ -1,5 +1,65 @@
 # Projects
 
+## React Vite Supabase Vercel - Open Source Template
+
+**Date:** December 2024  
+**Status:** 🟢  
+**URL:** [GitHub Repository](https://github.com/juancarlosjr97/react-vite-supabase-vercel)
+
+A modern template combining React with Vite, Supabase for backend services, and Vercel for deployment.
+
+**Technologies:** React, Vite, Supabase, Vercel, Full Stack Development
+
+---
+
+## GitHub Actions Workflows to Rule Them All - Open Source
+
+**Date:** December 2024 - Present  
+**Status:** 🟢  
+**URL:** [GitHub Repository](https://github.com/juancarlosjr97/github-actions-workflows-to-rule-them-all)
+
+A collection of reusable GitHub Actions workflows for standardizing CI/CD processes across projects.
+
+**Technologies:** GitHub Actions, CI/CD, DevOps
+
+---
+
+## Renovate Configuration - Open Source
+
+**Date:** December 2024 - Present  
+**Status:** 🟢  
+**URL:** [GitHub Repository](https://github.com/juancarlosjr97/renovate-configuration)
+
+A standardized Renovate configuration for automated dependency updates.
+
+**Technologies:** Renovate, Dependency Management, DevOps
+
+---
+
+## Text Invert - Open Source
+
+**Date:** November 2024 - Present  
+**Status:** 🟢  
+**URL:** [GitHub Repository](https://github.com/juancarlosjr97/text_invert)
+
+A utility project for inverting text.
+
+**Technologies:** Open Source
+
+---
+
+## Pre-Commit to Rule Them All - Open Source
+
+**Date:** November 2024 - Present  
+**Status:** 🟢  
+**URL:** [GitHub Repository](https://github.com/juancarlosjr97/pre-commit-to-rule-them-all)
+
+A comprehensive pre-commit configuration for maintaining code quality across projects.
+
+**Technologies:** Pre-commit, Code Quality, DevOps
+
+---
+
 ## Release-It Containerized - Open Source
 
 **Date:** February 2024 - Present  
@@ -21,66 +81,6 @@ This project is a containerized version of release-it. The purpose of this proje
 A basic project using React and Firebase, complete with automated deployments powered by GitHub Actions.
 
 **Technologies:** React, Firebase, GitHub Actions, CI/CD
-
----
-
-## Text Invert - Open Source
-
-**Date:** November 2024 - Present  
-**Status:** 🟢  
-**URL:** [GitHub Repository](https://github.com/juancarlosjr97/text_invert)
-
-A utility project for inverting text.
-
-**Technologies:** Open Source
-
----
-
-## GitHub Actions Workflows to Rule Them All - Open Source
-
-**Date:** December 2024 - Present  
-**Status:** 🟢  
-**URL:** [GitHub Repository](https://github.com/juancarlosjr97/github-actions-workflows-to-rule-them-all)
-
-A collection of reusable GitHub Actions workflows for standardizing CI/CD processes across projects.
-
-**Technologies:** GitHub Actions, CI/CD, DevOps
-
----
-
-## Pre-Commit to Rule Them All - Open Source
-
-**Date:** November 2024 - Present  
-**Status:** 🟢  
-**URL:** [GitHub Repository](https://github.com/juancarlosjr97/pre-commit-to-rule-them-all)
-
-A comprehensive pre-commit configuration for maintaining code quality across projects.
-
-**Technologies:** Pre-commit, Code Quality, DevOps
-
----
-
-## Renovate Configuration - Open Source
-
-**Date:** December 2024 - Present  
-**Status:** 🟢  
-**URL:** [GitHub Repository](https://github.com/juancarlosjr97/renovate-configuration)
-
-A standardized Renovate configuration for automated dependency updates.
-
-**Technologies:** Renovate, Dependency Management, DevOps
-
----
-
-## React Vite Supabase Vercel - Open Source Template
-
-**Date:** December 2024  
-**Status:** 🟢  
-**URL:** [GitHub Repository](https://github.com/juancarlosjr97/react-vite-supabase-vercel)
-
-A modern template combining React with Vite, Supabase for backend services, and Vercel for deployment.
-
-**Technologies:** React, Vite, Supabase, Vercel, Full Stack Development
 
 ---
 
