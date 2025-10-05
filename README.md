@@ -7,7 +7,7 @@
     <a href="https://www.linkedin.com/in/juancarlosjr97"><img height="30"
             src="https://raw.githubusercontent.com/juancarlosjr97/juancarlosjr97/master/assets/linkedin.png?raw=true"></a>&nbsp;&nbsp;
     <a href="https://twitter.com/juancarlosjr97"><img height="30"
-            src="https://raw.githubusercontent.com/juancarlosjr97/juancarlosjr97/master/assets/twitter.png?raw=true"></a>&nbsp;&nbsp;
+            src="https://raw.githubusercontent.com/juancarlosjr97/juancarlosjr97/master/assets/x.webp?raw=true"></a>&nbsp;&nbsp;
     <a href="https://www.buymeacoffee.com/juancarlosjr97"><img height="30"
             src="https://raw.githubusercontent.com/juancarlosjr97/juancarlosjr97/master/assets/popcorn.png"></a>&nbsp;&nbsp;
 </p>
